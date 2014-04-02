@@ -10,7 +10,7 @@
 
 
 ;;; Procedure:
-;;;   first-n-numbers
+;;;   one-to
 ;;; Parameters:
 ;;;   n, a positive integer
 ;;; Purpose:
