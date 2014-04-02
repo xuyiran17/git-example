@@ -10,7 +10,7 @@
 
 
 ;;; Procedure:
-;;;   nums
+;;;   one-to
 ;;; Parameters:
 ;;;   n, a positive integer
 ;;; Purpose:
