@@ -2,7 +2,7 @@
 (require gigls/unsafe)
 
 ;;; File:
-;;;   utils.rkt
+;;;   git-examples/utils.rkt
 ;;; Author:
 ;;;   Your Name Here
 ;;; Summary:
