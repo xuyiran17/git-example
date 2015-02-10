@@ -19,4 +19,5 @@
     (turtle-forward! turtle 50)))
 (define six-point-star
   (lambda (turtle)
+  ;; TESTING
     
